@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shriya!
 
-<!--
-**Shriya-sr/Shriya-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Undergrad | 💻 Curious Coder | 🚀 Learning One Day at a Time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 💡 I'm passionate about learning how computers *actually* work — from memory to logic.
+- 💻 Currently exploring: **C programming**, **Python**, and **web development**.
+- 🔍 Diving into **Data Structures and Algorithms**
+- ⚙️ I love solving real-world problems, especially through coding challenges
+
+---
+
+## 🧰 Tools and Technologies
+
+- **Languages:** C/C++, Python, JavaScript (beginner), HTML/CSS, Java
+- **Tools:** Git & GitHub, VS Code, PyCharm
+- **Learning Platforms:** LeetCode, FreeCodeCamp, geeksforgeeks
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/shriya-s-r-b20849336) 
+
+---
+
+🛠️ *Currently building skills, confidence, and hopefully some cool projects along the way.*
+
+Thanks for stopping by! ⭐
