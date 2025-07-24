@@ -21,7 +21,7 @@
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/shriya-s-r-b20849336) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/shriya-s-r-b20849336/) 
 
 ---
 
