@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 💡 I'm passionate about learning how computers *actually* work, from memory to logic.
-- 💻 Currently exploring: **C programming**, **Python**, and **web development**.
+- 💻 Currently exploring: **C programming**, **Machine Learning**, and **Web development**.
 - 🔍 Diving into **Data Structures and Algorithms**
 - ⚙️ I love solving real-world problems, especially through coding challenges
 
